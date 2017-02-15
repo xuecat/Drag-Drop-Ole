@@ -22,6 +22,7 @@ _UpgradeReport_Files
 logs
 *.generated.cs
 T4MVC.cs
+/ipch
 /SharpSnmpLib/sharpsnmplib.snk
 /packages
 /Gendarme
