@@ -1,4 +1,4 @@
-效果如下：
+drag and drop like window's explorer：
 
 > ![](./1.png)
 
