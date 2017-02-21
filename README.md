@@ -1,4 +1,4 @@
-drag and drop like window's explorer：
+drag and drop like windows explorer：
 
 > ![](./1.png)
 
